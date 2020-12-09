@@ -4,12 +4,14 @@ from scipy.sparse.linalg import svds
 
 from data import fetch_data_local
 
+n_vectors = 50
+
 
 def main():
     movies, ratings = fetch_data_local()
     user_ids = np.unique(list(ratings['user_id']))
 
-    all_user_predictions = make_predictions(ratings)
+    all_user_predictions = make_predictions(ratings, n_vectors)
 
     store_k_rec_per_user(user_ids, all_user_predictions, movies, ratings, 1)
     store_k_rec_per_user(user_ids, all_user_predictions, movies, ratings, 5)
