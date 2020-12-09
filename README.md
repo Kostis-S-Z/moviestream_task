@@ -42,6 +42,11 @@ git clone https://github.com/Kostis-S-Z/moviestream_task.git
 
 **top_k.csv**: The output of the script in a CSV format containing the next top K movies a user will see. The csv is indexed by user ID.
 
+***Draft***
+
+_context_nn.py_: Context-aware Neural Net based on timestamp of users' ratings. Not yet deployed.
+
+_models.py_: Embedding models.
 
 ### Run
 
