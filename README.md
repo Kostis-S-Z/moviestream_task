@@ -1,9 +1,58 @@
 # Recommendation system for MovieLens dataset
 
-Next movie predictions based on the [Movielens dataset](https://grouplens.org/datasets/movielens/100k/). Descriptions of the dataset can be found in the [original page](https://grouplens.org/datasets/movielens), [tensorflow tutorials](https://www.tensorflow.org/datasets/catalog/movielens), [kaggle](https://www.kaggle.com/c/movielens-100k)
+Next movie predictions based on the [Movielens dataset](https://grouplens.org/datasets/movielens/100k/). Descriptions of the dataset can be found in the [original page](https://grouplens.org/datasets/movielens), [tensorflow tutorials](https://www.tensorflow.org/datasets/catalog/movielens), [kaggle](https://www.kaggle.com/c/movielens-100k).
 
 
-## Approaches 
+## Table of Contents
+
+* [About](#about)
+* [Installation](#Installation)
+* [Project Structure](#project-structure)
+  * [Run](#run)
+* [Possible Approaches](#approaches)
+
+## About
+
+The task is to find patterns on what movies different types of users like. This can be achieved by examining the rankings each user has already made and try to predict how they will rank the rest of the movies. One method to predict these rankings is with SVD.
+
+## Installation
+
+
+1. Clone the repo
+```sh
+git clone https://github.com/Kostis-S-Z/moviestream_task.git
+```
+
+2. _(Optional, but highly recommended)_ Make a virtual environment
+
+```python3 -m venv meta_env``` or ``` virtualenv meta_env```
+
+
+3. Install core dependencies
+
+```pip install -r requirements.txt```
+
+## Project structure
+
+**ml-100k/**: Directory containing the MovieLens-100k dataset
+
+**data.py**: Module to load the dataset, either from local files or from the tensorflow dataset.
+
+**mf.py**: Matrix Factorization (SVD) method to rank (predict) the next movie(s) a user will watch.
+
+**top_k.csv**: The output of the script in a CSV format containing the next top K movies a user will see. The csv is indexed by user ID.
+
+
+#### Run
+
+To run the script and get the output recommendations, simply run:
+
+```python3 mf.py```
+
+
+## Approaches
+
+In this repo a popular and simple Matrix Factorication technique was used named Singular Value Decomposition (SVD). Other approaches to handle this problem are mentioned below.
 
 #### Simple Matrix Factorization (ML, not DL)
 
@@ -25,7 +74,7 @@ adding more layers lets use search for more complex connections / patterns acros
 
 #### Performance > Accuracy
 
-Google published a new model for Large-Scale recommendations with a focus in low computation cost in ICML 2020. [ScaNN blog](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html) + [ScaNN implementation](https://github.com/tensorflow/recommenders/blob/main/docs/examples/efficient_serving.ipynb)
+Google published a new model for Large-Scale recommendationsuser_id with a focus in low computation cost in ICML 2020. [ScaNN blog](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html) + [ScaNN implementation](https://github.com/tensorflow/recommenders/blob/main/docs/examples/efficient_serving.ipynb)
 
 #### Other 
 
