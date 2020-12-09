@@ -15,7 +15,7 @@ def main():
     store_k_rec_per_user(user_ids, all_user_predictions, movies, ratings, 5)
     store_k_rec_per_user(user_ids, all_user_predictions, movies, ratings, 10)
 
-    randomly_sample_result(user_ids[123], all_user_predictions, movies, ratings)
+    randomly_sample_result(np.random.choice(user_ids), all_user_predictions, movies, ratings)
 
 
 def make_predictions(ratings):
@@ -91,13 +91,13 @@ def randomly_sample_result(user_id, all_user_predictions, movies, ratings):
     recommendation = recommendation['title'].values[0]
 
     prompts = [
-        ['What about', '?'],
+        ['what about', '?'],
         ['I think you will also like', '!'],
-        ['Try', '!']
+        ['try', '!']
     ]
     msg = np.random.choice(len(prompts))
 
-    print(f'{prompts[msg][0]} "{recommendation}" {prompts[msg][1]}')
+    print(f'User {user_id} {prompts[msg][0]} "{recommendation}" {prompts[msg][1]}')
 
 
 if __name__ == '__main__':
