@@ -1,0 +1,944 @@
+user_id,title,release_date,imdb_url
+1,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+2,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+3,Chasing Amy (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
+4,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+5,Monty Python and the Holy Grail (1974),01-Jan-1974,http://us.imdb.com/M/title-exact?Monty%20Python%20and%20the%20Holy%20Grail%20(1974)
+6,One Flew Over the Cuckoo's Nest (1975),01-Jan-1975,http://us.imdb.com/M/title-exact?One%20Flew%20Over%20the%20Cuckoo's%20Nest%20(1975)
+7,"Clockwork Orange, A (1971)",01-Jan-1971,"http://us.imdb.com/M/title-exact?Clockwork%20Orange,%20A%20(1971)"
+8,Star Trek: First Contact (1996),22-Nov-1996,http://us.imdb.com/M/title-exact?Star%20Trek:%20First%20Contact%20(1996)
+9,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+10,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+11,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+12,Raiders of the Lost Ark (1981),01-Jan-1981,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)
+13,Jaws (1975),01-Jan-1975,http://us.imdb.com/M/title-exact?Jaws%20(1975)
+14,Willy Wonka and the Chocolate Factory (1971),01-Jan-1971,http://us.imdb.com/M/title-exact?Willy%20Wonka%20and%20the%20Chocolate%20Factory%20(1971)
+15,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+16,"Shawshank Redemption, The (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Shawshank%20Redemption,%20The%20(1994)"
+17,Leaving Las Vegas (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Leaving%20Las%20Vegas%20(1995)
+18,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+19,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+20,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+21,"Nightmare on Elm Street, A (1984)",01-Jan-1984,"http://us.imdb.com/M/title-exact?Nightmare%20on%20Elm%20Street,%20A%20(1984)"
+22,Return of the Jedi (1983),14-Mar-1997,http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)
+23,Alien (1979),01-Jan-1979,http://us.imdb.com/M/title-exact?Alien%20(1979)
+24,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+25,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+26,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+27,Chasing Amy (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
+28,"Silence of the Lambs, The (1991)",01-Jan-1991,"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"
+29,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+30,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+31,Chasing Amy (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
+32,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+33,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+34,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+35,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+36,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+37,Terminator 2: Judgment Day (1991),01-Jan-1991,http://us.imdb.com/M/title-exact?Terminator%202:%20Judgment%20Day%20(1991)
+38,"Lion King, The (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Lion%20King,%20The%20(1994)"
+39,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+40,Chasing Amy (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
+41,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+42,"Fugitive, The (1993)",01-Jan-1993,"http://us.imdb.com/M/title-exact?Fugitive,%20The%20(1993)"
+43,"Wrong Trousers, The (1993)",01-Jan-1993,"http://us.imdb.com/M/title-exact?Wrong%20Trousers,%20The%20(1993)"
+44,Star Trek: The Wrath of Khan (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Wrath%20of%20Khan%20(1982)
+45,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+46,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+47,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+48,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+49,Trainspotting (1996),19-Jul-1996,http://us.imdb.com/Title?Trainspotting+(1996)
+50,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+51,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+52,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+53,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+54,"Rock, The (1996)",07-Jun-1996,"http://us.imdb.com/M/title-exact?Rock,%20The%20(1996)"
+55,Raiders of the Lost Ark (1981),01-Jan-1981,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)
+56,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+57,Men in Black (1997),04-Jul-1997,http://us.imdb.com/M/title-exact?Men+in+Black+(1997)
+58,"Usual Suspects, The (1995)",14-Aug-1995,"http://us.imdb.com/M/title-exact?Usual%20Suspects,%20The%20(1995)"
+59,Young Frankenstein (1974),01-Jan-1974,http://us.imdb.com/M/title-exact?Young%20Frankenstein%20(1974)
+60,Star Trek: First Contact (1996),22-Nov-1996,http://us.imdb.com/M/title-exact?Star%20Trek:%20First%20Contact%20(1996)
+61,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+62,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+63,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+64,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+65,Mr. Holland's Opus (1995),29-Jan-1996,http://us.imdb.com/M/title-exact?Mr.%20Holland's%20Opus%20(1995)
+66,Return of the Jedi (1983),14-Mar-1997,http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)
+67,Willy Wonka and the Chocolate Factory (1971),01-Jan-1971,http://us.imdb.com/M/title-exact?Willy%20Wonka%20and%20the%20Chocolate%20Factory%20(1971)
+68,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+69,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+70,Star Trek: The Wrath of Khan (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Wrath%20of%20Khan%20(1982)
+71,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+72,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+73,Brazil (1985),01-Jan-1985,http://us.imdb.com/M/title-exact?Brazil%20(1985)
+74,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+75,Willy Wonka and the Chocolate Factory (1971),01-Jan-1971,http://us.imdb.com/M/title-exact?Willy%20Wonka%20and%20the%20Chocolate%20Factory%20(1971)
+76,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+77,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+78,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+79,Chasing Amy (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
+80,"Sting, The (1973)",01-Jan-1973,"http://us.imdb.com/M/title-exact?Sting,%20The%20(1973)"
+81,"Birdcage, The (1996)",08-Mar-1996,"http://us.imdb.com/M/title-exact?Birdcage,%20The%20(1996)"
+82,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+83,Sleepless in Seattle (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Sleepless%20in%20Seattle%20(1993)
+84,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+85,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+86,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+87,Indiana Jones and the Last Crusade (1989),01-Jan-1989,http://us.imdb.com/M/title-exact?Indiana%20Jones%20and%20the%20Last%20Crusade%20(1989)
+88,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+89,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+90,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+91,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+92,"Wrong Trousers, The (1993)",01-Jan-1993,"http://us.imdb.com/M/title-exact?Wrong%20Trousers,%20The%20(1993)"
+93,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+94,Apocalypse Now (1979),01-Jan-1979,http://us.imdb.com/M/title-exact?Apocalypse%20Now%20(1979)
+95,Lawrence of Arabia (1962),01-Jan-1962,http://us.imdb.com/M/title-exact?Lawrence%20of%20Arabia%20(1962)
+96,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+97,"Wrong Trousers, The (1993)",01-Jan-1993,"http://us.imdb.com/M/title-exact?Wrong%20Trousers,%20The%20(1993)"
+98,M*A*S*H (1970),01-Jan-1970,http://us.imdb.com/M/title-exact?MASH%20(1970)
+99,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+100,Good Will Hunting (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-119217
+101,Independence Day (ID4) (1996),03-Jul-1996,http://us.imdb.com/M/title-exact?Independence%20Day%20(1996)
+102,Alien (1979),01-Jan-1979,http://us.imdb.com/M/title-exact?Alien%20(1979)
+103,Men in Black (1997),04-Jul-1997,http://us.imdb.com/M/title-exact?Men+in+Black+(1997)
+104,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+105,Apt Pupil (1998),23-Oct-1998,http://us.imdb.com/Title?Apt+Pupil+(1998)
+106,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+107,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+108,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+109,Forrest Gump (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Forrest%20Gump%20(1994)
+110,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+111,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+112,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+113,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+114,Blade Runner (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Blade%20Runner%20(1982)
+115,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+116,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+117,Independence Day (ID4) (1996),03-Jul-1996,http://us.imdb.com/M/title-exact?Independence%20Day%20(1996)
+118,"Shining, The (1980)",01-Jan-1980,"http://us.imdb.com/M/title-exact?Shining,%20The%20(1980)"
+119,Good Will Hunting (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-119217
+120,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+121,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+122,Fried Green Tomatoes (1991),01-Jan-1991,http://us.imdb.com/M/title-exact?Fried%20Green%20Tomatoes%20at%20the%20Whistle%20Stop%20Cafe%20(1991)
+123,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+124,Raiders of the Lost Ark (1981),01-Jan-1981,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)
+125,Groundhog Day (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Groundhog%20Day%20(1993)
+126,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+127,Star Trek: First Contact (1996),22-Nov-1996,http://us.imdb.com/M/title-exact?Star%20Trek:%20First%20Contact%20(1996)
+128,"Sound of Music, The (1965)",01-Jan-1965,"http://us.imdb.com/M/title-exact?Sound%20of%20Music,%20The%20(1965)"
+129,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+130,"Silence of the Lambs, The (1991)",01-Jan-1991,"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"
+131,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+132,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+133,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+134,"Saint, The (1997)",14-Mar-1997,http://us.imdb.com/M/title-exact?Saint%2C%20The%20(1997)
+135,"Silence of the Lambs, The (1991)",01-Jan-1991,"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"
+136,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+137,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+138,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+139,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+140,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+141,Independence Day (ID4) (1996),03-Jul-1996,http://us.imdb.com/M/title-exact?Independence%20Day%20(1996)
+142,"Wrong Trousers, The (1993)",01-Jan-1993,"http://us.imdb.com/M/title-exact?Wrong%20Trousers,%20The%20(1993)"
+143,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+144,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+145,Star Trek: First Contact (1996),22-Nov-1996,http://us.imdb.com/M/title-exact?Star%20Trek:%20First%20Contact%20(1996)
+146,Good Will Hunting (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-119217
+147,Seven Years in Tibet (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Seven+Years+in+Tibet+(1997)
+148,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+149,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+150,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+151,Star Trek: First Contact (1996),22-Nov-1996,http://us.imdb.com/M/title-exact?Star%20Trek:%20First%20Contact%20(1996)
+152,Pretty Woman (1990),01-Jan-1990,http://us.imdb.com/M/title-exact?Pretty%20Woman%20(1990)
+153,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+154,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+155,Liar Liar (1997),21-Mar-1997,http://us.imdb.com/Title?Liar+Liar+(1997)
+156,"Shawshank Redemption, The (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Shawshank%20Redemption,%20The%20(1994)"
+157,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+158,Butch Cassidy and the Sundance Kid (1969),01-Jan-1969,http://us.imdb.com/M/title-exact?Butch%20Cassidy%20and%20the%20Sundance%20Kid%20(1969)
+159,"Saint, The (1997)",14-Mar-1997,http://us.imdb.com/M/title-exact?Saint%2C%20The%20(1997)
+160,Trainspotting (1996),19-Jul-1996,http://us.imdb.com/Title?Trainspotting+(1996)
+161,"Silence of the Lambs, The (1991)",01-Jan-1991,"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"
+162,"Rock, The (1996)",07-Jun-1996,"http://us.imdb.com/M/title-exact?Rock,%20The%20(1996)"
+163,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+164,"Rock, The (1996)",07-Jun-1996,"http://us.imdb.com/M/title-exact?Rock,%20The%20(1996)"
+165,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+166,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+167,Babe (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Babe%20(1995)
+168,Independence Day (ID4) (1996),03-Jul-1996,http://us.imdb.com/M/title-exact?Independence%20Day%20(1996)
+169,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+170,Liar Liar (1997),21-Mar-1997,http://us.imdb.com/Title?Liar+Liar+(1997)
+171,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+172,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+173,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+174,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+175,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+176,Chasing Amy (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
+177,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+178,"Truth About Cats & Dogs, The (1996)",26-Apr-1996,"http://us.imdb.com/M/title-exact?Truth%20About%20Cats%20&%20Dogs,%20The%20(1996)"
+179,Good Will Hunting (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-119217
+180,Dead Poets Society (1989),01-Jan-1989,http://us.imdb.com/M/title-exact?Dead%20Poets%20Society%20(1989)
+181,Jerry Maguire (1996),13-Dec-1996,http://us.imdb.com/M/title-exact?Jerry%20Maguire%20(1996)
+182,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+183,Star Trek: The Wrath of Khan (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Wrath%20of%20Khan%20(1982)
+184,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+185,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+186,Ransom (1996),08-Nov-1996,http://us.imdb.com/M/title-exact?Ransom%20(1996)
+187,Much Ado About Nothing (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Much%20Ado%20About%20Nothing%20(1993)
+188,"Silence of the Lambs, The (1991)",01-Jan-1991,"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"
+189,Vertigo (1958),01-Jan-1958,http://us.imdb.com/M/title-exact?Vertigo%20(1958)
+190,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+191,Apt Pupil (1998),23-Oct-1998,http://us.imdb.com/Title?Apt+Pupil+(1998)
+192,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+193,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+194,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+195,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+196,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+197,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+198,2001: A Space Odyssey (1968),01-Jan-1968,http://us.imdb.com/M/title-exact?2001:%20A%20Space%20Odyssey%20(1968)
+199,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+200,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+201,GoodFellas (1990),01-Jan-1990,http://us.imdb.com/M/title-exact?GoodFellas%20(1990)
+202,"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Her+Majesty%2C+Mrs%2E+Brown+(1997)
+203,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+204,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+205,Liar Liar (1997),21-Mar-1997,http://us.imdb.com/Title?Liar+Liar+(1997)
+206,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+207,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+208,Dave (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Dave%20(1993)
+209,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+210,Back to the Future (1985),01-Jan-1985,http://us.imdb.com/M/title-exact?Back%20to%20the%20Future%20(1985)
+211,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+212,Chasing Amy (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
+213,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+214,Amadeus (1984),01-Jan-1984,http://us.imdb.com/M/title-exact?Amadeus%20(1984)
+215,Star Trek: The Wrath of Khan (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Wrath%20of%20Khan%20(1982)
+216,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+217,Terminator 2: Judgment Day (1991),01-Jan-1991,http://us.imdb.com/M/title-exact?Terminator%202:%20Judgment%20Day%20(1991)
+218,"Usual Suspects, The (1995)",14-Aug-1995,"http://us.imdb.com/M/title-exact?Usual%20Suspects,%20The%20(1995)"
+219,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+220,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+221,Trainspotting (1996),19-Jul-1996,http://us.imdb.com/Title?Trainspotting+(1996)
+222,Stand by Me (1986),01-Jan-1986,http://us.imdb.com/M/title-exact?Stand%20by%20Me%20(1986)
+223,Sabrina (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sabrina%20(1995)
+224,Fried Green Tomatoes (1991),01-Jan-1991,http://us.imdb.com/M/title-exact?Fried%20Green%20Tomatoes%20at%20the%20Whistle%20Stop%20Cafe%20(1991)
+225,To Kill a Mockingbird (1962),01-Jan-1962,http://us.imdb.com/M/title-exact?To%20Kill%20a%20Mockingbird%20(1962)
+226,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+227,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+228,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+229,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+230,Raiders of the Lost Ark (1981),01-Jan-1981,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)
+231,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+232,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+233,Gandhi (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Gandhi%20(1982)
+234,"Bridge on the River Kwai, The (1957)",01-Jan-1957,"http://us.imdb.com/M/title-exact?Bridge%20on%20the%20River%20Kwai,%20The%20(1957)"
+235,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+236,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+237,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),01-Jan-1963,http://us.imdb.com/M/title-exact?Dr.%20Strangelove%20or:%20How%20I%20Learned%20to%20Stop%20Worrying%20and%20Love%20the%20Bomb%20(1963)
+238,Men in Black (1997),04-Jul-1997,http://us.imdb.com/M/title-exact?Men+in+Black+(1997)
+239,"Wizard of Oz, The (1939)",01-Jan-1939,"http://us.imdb.com/M/title-exact?Wizard%20of%20Oz,%20The%20(1939)"
+240,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+241,Liar Liar (1997),21-Mar-1997,http://us.imdb.com/Title?Liar+Liar+(1997)
+242,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+243,Amadeus (1984),01-Jan-1984,http://us.imdb.com/M/title-exact?Amadeus%20(1984)
+244,Dead Man Walking (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Dead%20Man%20Walking%20(1995)
+245,Men in Black (1997),04-Jul-1997,http://us.imdb.com/M/title-exact?Men+in+Black+(1997)
+246,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+247,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+248,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+249,"Usual Suspects, The (1995)",14-Aug-1995,"http://us.imdb.com/M/title-exact?Usual%20Suspects,%20The%20(1995)"
+250,Aladdin (1992),01-Jan-1992,http://us.imdb.com/M/title-exact?Aladdin%20(1992)
+251,Independence Day (ID4) (1996),03-Jul-1996,http://us.imdb.com/M/title-exact?Independence%20Day%20(1996)
+252,Leaving Las Vegas (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Leaving%20Las%20Vegas%20(1995)
+253,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+254,Return of the Jedi (1983),14-Mar-1997,http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)
+255,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+256,Ransom (1996),08-Nov-1996,http://us.imdb.com/M/title-exact?Ransom%20(1996)
+257,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+258,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+259,"Silence of the Lambs, The (1991)",01-Jan-1991,"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"
+260,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+261,Liar Liar (1997),21-Mar-1997,http://us.imdb.com/Title?Liar+Liar+(1997)
+262,Forrest Gump (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Forrest%20Gump%20(1994)
+263,One Flew Over the Cuckoo's Nest (1975),01-Jan-1975,http://us.imdb.com/M/title-exact?One%20Flew%20Over%20the%20Cuckoo's%20Nest%20(1975)
+264,Psycho (1960),01-Jan-1960,http://us.imdb.com/M/title-exact?Psycho%20(1960)
+265,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+266,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+267,Blade Runner (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Blade%20Runner%20(1982)
+268,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+269,Harold and Maude (1971),01-Jan-1971,http://us.imdb.com/M/title-exact?Harold%20and%20Maude%20(1971)
+270,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+271,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+272,Taxi Driver (1976),16-Feb-1996,http://us.imdb.com/M/title-exact?Taxi%20Driver%20(1976)
+273,Good Will Hunting (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-119217
+274,Jerry Maguire (1996),13-Dec-1996,http://us.imdb.com/M/title-exact?Jerry%20Maguire%20(1996)
+275,Star Trek: The Wrath of Khan (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Wrath%20of%20Khan%20(1982)
+276,Trainspotting (1996),19-Jul-1996,http://us.imdb.com/Title?Trainspotting+(1996)
+277,Mr. Holland's Opus (1995),29-Jan-1996,http://us.imdb.com/M/title-exact?Mr.%20Holland's%20Opus%20(1995)
+278,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+279,"Wrong Trousers, The (1993)",01-Jan-1993,"http://us.imdb.com/M/title-exact?Wrong%20Trousers,%20The%20(1993)"
+280,Dead Man Walking (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Dead%20Man%20Walking%20(1995)
+281,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+282,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+283,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+284,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+285,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+286,In & Out (1997),19-Sep-1997,http://us.imdb.com/Title?In+%26+Out+(1997)
+287,"Usual Suspects, The (1995)",14-Aug-1995,"http://us.imdb.com/M/title-exact?Usual%20Suspects,%20The%20(1995)"
+288,One Flew Over the Cuckoo's Nest (1975),01-Jan-1975,http://us.imdb.com/M/title-exact?One%20Flew%20Over%20the%20Cuckoo's%20Nest%20(1975)
+289,"Rock, The (1996)",07-Jun-1996,"http://us.imdb.com/M/title-exact?Rock,%20The%20(1996)"
+290,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+291,Jerry Maguire (1996),13-Dec-1996,http://us.imdb.com/M/title-exact?Jerry%20Maguire%20(1996)
+292,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+293,Citizen Kane (1941),01-Jan-1941,http://us.imdb.com/M/title-exact?Citizen%20Kane%20(1941)
+294,Trainspotting (1996),19-Jul-1996,http://us.imdb.com/Title?Trainspotting+(1996)
+295,Monty Python and the Holy Grail (1974),01-Jan-1974,http://us.imdb.com/M/title-exact?Monty%20Python%20and%20the%20Holy%20Grail%20(1974)
+296,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+297,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+298,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+299,Like Water For Chocolate (Como agua para chocolate) (1992),01-Jan-1992,http://us.imdb.com/M/title-exact?Como%20agua%20para%20chocolate%20(1992)
+300,Conspiracy Theory (1997),08-Aug-1997,http://us.imdb.com/M/title-exact?Conspiracy+Theory+(1997)
+301,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+302,Conspiracy Theory (1997),08-Aug-1997,http://us.imdb.com/M/title-exact?Conspiracy+Theory+(1997)
+303,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+304,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+305,"Shawshank Redemption, The (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Shawshank%20Redemption,%20The%20(1994)"
+306,Cold Comfort Farm (1995),23-Apr-1996,http://us.imdb.com/M/title-exact?Cold%20Comfort%20Farm%20(1995)%20(TV)
+307,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+308,Ed Wood (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Ed%20Wood%20(1994)
+309,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+310,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+311,Forrest Gump (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Forrest%20Gump%20(1994)
+312,"Wrong Trousers, The (1993)",01-Jan-1993,"http://us.imdb.com/M/title-exact?Wrong%20Trousers,%20The%20(1993)"
+313,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+314,"Truth About Cats & Dogs, The (1996)",26-Apr-1996,"http://us.imdb.com/M/title-exact?Truth%20About%20Cats%20&%20Dogs,%20The%20(1996)"
+315,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+316,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+317,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+318,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+319,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+320,Terminator 2: Judgment Day (1991),01-Jan-1991,http://us.imdb.com/M/title-exact?Terminator%202:%20Judgment%20Day%20(1991)
+321,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+322,Taxi Driver (1976),16-Feb-1996,http://us.imdb.com/M/title-exact?Taxi%20Driver%20(1976)
+323,Return of the Jedi (1983),14-Mar-1997,http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)
+324,Leaving Las Vegas (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Leaving%20Las%20Vegas%20(1995)
+325,Taxi Driver (1976),16-Feb-1996,http://us.imdb.com/M/title-exact?Taxi%20Driver%20(1976)
+326,"Great Escape, The (1963)",01-Jan-1963,"http://us.imdb.com/M/title-exact?Great%20Escape,%20The%20(1963)"
+327,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+328,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+329,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+330,Back to the Future (1985),01-Jan-1985,http://us.imdb.com/M/title-exact?Back%20to%20the%20Future%20(1985)
+331,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+332,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+333,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+334,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+335,Liar Liar (1997),21-Mar-1997,http://us.imdb.com/Title?Liar+Liar+(1997)
+336,Jerry Maguire (1996),13-Dec-1996,http://us.imdb.com/M/title-exact?Jerry%20Maguire%20(1996)
+337,Star Trek: First Contact (1996),22-Nov-1996,http://us.imdb.com/M/title-exact?Star%20Trek:%20First%20Contact%20(1996)
+338,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+339,One Flew Over the Cuckoo's Nest (1975),01-Jan-1975,http://us.imdb.com/M/title-exact?One%20Flew%20Over%20the%20Cuckoo's%20Nest%20(1975)
+340,"Empire Strikes Back, The (1980)",01-Jan-1980,"http://us.imdb.com/M/title-exact?Empire%20Strikes%20Back,%20The%20(1980)"
+341,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+342,"People vs. Larry Flynt, The (1996)",27-Dec-1996,"http://us.imdb.com/M/title-exact?People%20vs.%20Larry%20Flynt,%20The%20(1996)"
+343,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+344,Terminator 2: Judgment Day (1991),01-Jan-1991,http://us.imdb.com/M/title-exact?Terminator%202:%20Judgment%20Day%20(1991)
+345,Mr. Holland's Opus (1995),29-Jan-1996,http://us.imdb.com/M/title-exact?Mr.%20Holland's%20Opus%20(1995)
+346,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+347,Forrest Gump (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Forrest%20Gump%20(1994)
+348,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+349,Dead Man Walking (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Dead%20Man%20Walking%20(1995)
+350,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+351,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+352,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+353,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+354,"Remains of the Day, The (1993)",01-Jan-1993,"http://us.imdb.com/M/title-exact?Remains%20of%20the%20Day,%20The%20(1993)"
+355,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+356,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+357,Independence Day (ID4) (1996),03-Jul-1996,http://us.imdb.com/M/title-exact?Independence%20Day%20(1996)
+358,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+359,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+360,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+361,Rear Window (1954),01-Jan-1954,http://us.imdb.com/M/title-exact?Rear%20Window%20(1954)
+362,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+363,"Empire Strikes Back, The (1980)",01-Jan-1980,"http://us.imdb.com/M/title-exact?Empire%20Strikes%20Back,%20The%20(1980)"
+364,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+365,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+366,"Nightmare on Elm Street, A (1984)",01-Jan-1984,"http://us.imdb.com/M/title-exact?Nightmare%20on%20Elm%20Street,%20A%20(1984)"
+367,Alien (1979),01-Jan-1979,http://us.imdb.com/M/title-exact?Alien%20(1979)
+368,Return of the Jedi (1983),14-Mar-1997,http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)
+369,"Empire Strikes Back, The (1980)",01-Jan-1980,"http://us.imdb.com/M/title-exact?Empire%20Strikes%20Back,%20The%20(1980)"
+370,Rear Window (1954),01-Jan-1954,http://us.imdb.com/M/title-exact?Rear%20Window%20(1954)
+371,One Flew Over the Cuckoo's Nest (1975),01-Jan-1975,http://us.imdb.com/M/title-exact?One%20Flew%20Over%20the%20Cuckoo's%20Nest%20(1975)
+372,"Shining, The (1980)",01-Jan-1980,"http://us.imdb.com/M/title-exact?Shining,%20The%20(1980)"
+373,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+374,Jaws (1975),01-Jan-1975,http://us.imdb.com/M/title-exact?Jaws%20(1975)
+375,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+376,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+377,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+378,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+379,M*A*S*H (1970),01-Jan-1970,http://us.imdb.com/M/title-exact?MASH%20(1970)
+380,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+381,Amadeus (1984),01-Jan-1984,http://us.imdb.com/M/title-exact?Amadeus%20(1984)
+382,Trainspotting (1996),19-Jul-1996,http://us.imdb.com/Title?Trainspotting+(1996)
+383,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+384,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+385,Rear Window (1954),01-Jan-1954,http://us.imdb.com/M/title-exact?Rear%20Window%20(1954)
+386,Independence Day (ID4) (1996),03-Jul-1996,http://us.imdb.com/M/title-exact?Independence%20Day%20(1996)
+387,"Wrong Trousers, The (1993)",01-Jan-1993,"http://us.imdb.com/M/title-exact?Wrong%20Trousers,%20The%20(1993)"
+388,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+389,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+390,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+391,"Silence of the Lambs, The (1991)",01-Jan-1991,"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"
+392,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+393,"Shawshank Redemption, The (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Shawshank%20Redemption,%20The%20(1994)"
+394,Raiders of the Lost Ark (1981),01-Jan-1981,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)
+395,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+396,"Rock, The (1996)",07-Jun-1996,"http://us.imdb.com/M/title-exact?Rock,%20The%20(1996)"
+397,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+398,Groundhog Day (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Groundhog%20Day%20(1993)
+399,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+400,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+401,Dead Poets Society (1989),01-Jan-1989,http://us.imdb.com/M/title-exact?Dead%20Poets%20Society%20(1989)
+402,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+403,Independence Day (ID4) (1996),03-Jul-1996,http://us.imdb.com/M/title-exact?Independence%20Day%20(1996)
+404,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+405,"Shawshank Redemption, The (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Shawshank%20Redemption,%20The%20(1994)"
+406,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+407,"Shining, The (1980)",01-Jan-1980,"http://us.imdb.com/M/title-exact?Shining,%20The%20(1980)"
+408,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+409,To Kill a Mockingbird (1962),01-Jan-1962,http://us.imdb.com/M/title-exact?To%20Kill%20a%20Mockingbird%20(1962)
+410,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+411,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+412,"Wrong Trousers, The (1993)",01-Jan-1993,"http://us.imdb.com/M/title-exact?Wrong%20Trousers,%20The%20(1993)"
+413,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+414,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+415,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+416,Grosse Pointe Blank (1997),11-Apr-1997,http://us.imdb.com/M/title-exact?Grosse%20Pointe%20Blank%20%281997%29
+417,Blade Runner (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Blade%20Runner%20(1982)
+418,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+419,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+420,Secrets & Lies (1996),04-Oct-1996,http://us.imdb.com/M/title-exact?Secrets%20&%20Lies%20(1996)
+421,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+422,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+423,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+424,Liar Liar (1997),21-Mar-1997,http://us.imdb.com/Title?Liar+Liar+(1997)
+425,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+426,Rear Window (1954),01-Jan-1954,http://us.imdb.com/M/title-exact?Rear%20Window%20(1954)
+427,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+428,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+429,Die Hard (1988),01-Jan-1988,http://us.imdb.com/M/title-exact?Die%20Hard%20(1988)
+430,Dead Man Walking (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Dead%20Man%20Walking%20(1995)
+431,Murder at 1600 (1997),18-Apr-1997,http://us.imdb.com/M/title-exact?Murder%20at%201600%20(1997)
+432,Return of the Jedi (1983),14-Mar-1997,http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)
+433,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+434,Jerry Maguire (1996),13-Dec-1996,http://us.imdb.com/M/title-exact?Jerry%20Maguire%20(1996)
+435,Monty Python and the Holy Grail (1974),01-Jan-1974,http://us.imdb.com/M/title-exact?Monty%20Python%20and%20the%20Holy%20Grail%20(1974)
+436,Leaving Las Vegas (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Leaving%20Las%20Vegas%20(1995)
+437,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+438,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+439,Leaving Las Vegas (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Leaving%20Las%20Vegas%20(1995)
+440,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+441,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+442,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+443,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+444,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+445,Trainspotting (1996),19-Jul-1996,http://us.imdb.com/Title?Trainspotting+(1996)
+446,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+447,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+448,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+449,Leaving Las Vegas (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Leaving%20Las%20Vegas%20(1995)
+450,"Godfather: Part II, The (1974)",01-Jan-1974,"http://us.imdb.com/M/title-exact?Godfather:%20Part%20II,%20The%20(1974)"
+451,"Game, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Game%2C+The+(1997)
+452,It's a Wonderful Life (1946),01-Jan-1946,http://us.imdb.com/M/title-exact?It's%20a%20Wonderful%20Life%20(1946)
+453,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+454,North by Northwest (1959),01-Jan-1959,http://us.imdb.com/M/title-exact?North%20by%20Northwest%20(1959)
+455,Dead Man Walking (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Dead%20Man%20Walking%20(1995)
+456,Taxi Driver (1976),16-Feb-1996,http://us.imdb.com/M/title-exact?Taxi%20Driver%20(1976)
+457,"Shawshank Redemption, The (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Shawshank%20Redemption,%20The%20(1994)"
+458,"Close Shave, A (1995)",28-Apr-1996,"http://us.imdb.com/M/title-exact?Close%20Shave,%20A%20(1995)"
+459,Liar Liar (1997),21-Mar-1997,http://us.imdb.com/Title?Liar+Liar+(1997)
+460,Lone Star (1996),21-Jun-1996,http://us.imdb.com/M/title-exact?Lone%20Star%20(1996)
+461,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+462,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+463,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+464,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+465,"Shawshank Redemption, The (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Shawshank%20Redemption,%20The%20(1994)"
+466,Terminator 2: Judgment Day (1991),01-Jan-1991,http://us.imdb.com/M/title-exact?Terminator%202:%20Judgment%20Day%20(1991)
+467,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+468,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+469,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+470,Leaving Las Vegas (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Leaving%20Las%20Vegas%20(1995)
+471,Beauty and the Beast (1991),01-Jan-1991,http://us.imdb.com/M/title-exact?Beauty%20and%20the%20Beast%20(1991)
+472,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+473,Lone Star (1996),21-Jun-1996,http://us.imdb.com/M/title-exact?Lone%20Star%20(1996)
+474,Apocalypse Now (1979),01-Jan-1979,http://us.imdb.com/M/title-exact?Apocalypse%20Now%20(1979)
+475,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+476,Monty Python and the Holy Grail (1974),01-Jan-1974,http://us.imdb.com/M/title-exact?Monty%20Python%20and%20the%20Holy%20Grail%20(1974)
+477,"Truth About Cats & Dogs, The (1996)",26-Apr-1996,"http://us.imdb.com/M/title-exact?Truth%20About%20Cats%20&%20Dogs,%20The%20(1996)"
+478,"Shawshank Redemption, The (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Shawshank%20Redemption,%20The%20(1994)"
+479,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+480,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+481,"Fish Called Wanda, A (1988)",01-Jan-1988,"http://us.imdb.com/M/title-exact?Fish%20Called%20Wanda,%20A%20(1988)"
+482,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+483,Star Trek: First Contact (1996),22-Nov-1996,http://us.imdb.com/M/title-exact?Star%20Trek:%20First%20Contact%20(1996)
+484,Indiana Jones and the Last Crusade (1989),01-Jan-1989,http://us.imdb.com/M/title-exact?Indiana%20Jones%20and%20the%20Last%20Crusade%20(1989)
+485,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+486,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+487,Terminator 2: Judgment Day (1991),01-Jan-1991,http://us.imdb.com/M/title-exact?Terminator%202:%20Judgment%20Day%20(1991)
+488,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+489,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+490,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+491,Secrets & Lies (1996),04-Oct-1996,http://us.imdb.com/M/title-exact?Secrets%20&%20Lies%20(1996)
+492,"Godfather: Part II, The (1974)",01-Jan-1974,"http://us.imdb.com/M/title-exact?Godfather:%20Part%20II,%20The%20(1974)"
+493,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+494,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+495,Star Trek: The Wrath of Khan (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Wrath%20of%20Khan%20(1982)
+496,Chasing Amy (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
+497,Indiana Jones and the Last Crusade (1989),01-Jan-1989,http://us.imdb.com/M/title-exact?Indiana%20Jones%20and%20the%20Last%20Crusade%20(1989)
+498,Taxi Driver (1976),16-Feb-1996,http://us.imdb.com/M/title-exact?Taxi%20Driver%20(1976)
+499,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+500,Chasing Amy (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
+501,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+502,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+503,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+504,"Shining, The (1980)",01-Jan-1980,"http://us.imdb.com/M/title-exact?Shining,%20The%20(1980)"
+505,Braveheart (1995),16-Feb-1996,http://us.imdb.com/M/title-exact?Braveheart%20(1995)
+506,"Sting, The (1973)",01-Jan-1973,"http://us.imdb.com/M/title-exact?Sting,%20The%20(1973)"
+507,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+508,Alien (1979),01-Jan-1979,http://us.imdb.com/M/title-exact?Alien%20(1979)
+509,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+510,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+511,Starship Troopers (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Starship+Troopers+(1997)
+512,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+513,Return of the Jedi (1983),14-Mar-1997,http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)
+514,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+515,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+516,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+517,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+518,Twelve Monkeys (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Twelve%20Monkeys%20(1995)
+519,Chasing Amy (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
+520,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+521,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+522,"Sting, The (1973)",01-Jan-1973,"http://us.imdb.com/M/title-exact?Sting,%20The%20(1973)"
+523,Four Weddings and a Funeral (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Four%20Weddings%20and%20a%20Funeral%20(1994)
+524,GoodFellas (1990),01-Jan-1990,http://us.imdb.com/M/title-exact?GoodFellas%20(1990)
+525,Independence Day (ID4) (1996),03-Jul-1996,http://us.imdb.com/M/title-exact?Independence%20Day%20(1996)
+526,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+527,Raiders of the Lost Ark (1981),01-Jan-1981,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)
+528,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+529,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+530,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+531,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+532,"Boot, Das (1981)",04-Apr-1997,"http://us.imdb.com/M/title-exact?Boot,%20Das%20(1981)"
+533,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+534,Heat (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Heat%20(1995)
+535,North by Northwest (1959),01-Jan-1959,http://us.imdb.com/M/title-exact?North%20by%20Northwest%20(1959)
+536,Star Trek: The Wrath of Khan (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Wrath%20of%20Khan%20(1982)
+537,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+538,Die Hard (1988),01-Jan-1988,http://us.imdb.com/M/title-exact?Die%20Hard%20(1988)
+539,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+540,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+541,Beauty and the Beast (1991),01-Jan-1991,http://us.imdb.com/M/title-exact?Beauty%20and%20the%20Beast%20(1991)
+542,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+543,2001: A Space Odyssey (1968),01-Jan-1968,http://us.imdb.com/M/title-exact?2001:%20A%20Space%20Odyssey%20(1968)
+544,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+545,Star Trek: The Wrath of Khan (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Wrath%20of%20Khan%20(1982)
+546,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+547,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+548,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+549,Phenomenon (1996),29-Jun-1996,http://us.imdb.com/M/title-exact?Phenomenon%20(1996)
+550,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+551,"Time to Kill, A (1996)",13-Jul-1996,"http://us.imdb.com/M/title-exact?Time%20to%20Kill,%20A%20(1996)"
+552,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+553,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+554,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+555,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+556,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+557,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+558,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+559,Braveheart (1995),16-Feb-1996,http://us.imdb.com/M/title-exact?Braveheart%20(1995)
+560,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+561,Brazil (1985),01-Jan-1985,http://us.imdb.com/M/title-exact?Brazil%20(1985)
+562,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+563,Men in Black (1997),04-Jul-1997,http://us.imdb.com/M/title-exact?Men+in+Black+(1997)
+564,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+565,Much Ado About Nothing (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Much%20Ado%20About%20Nothing%20(1993)
+566,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+567,Rear Window (1954),01-Jan-1954,http://us.imdb.com/M/title-exact?Rear%20Window%20(1954)
+568,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+569,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+570,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+571,"Shawshank Redemption, The (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Shawshank%20Redemption,%20The%20(1994)"
+572,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+573,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+574,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+575,"Silence of the Lambs, The (1991)",01-Jan-1991,"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"
+576,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+577,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+578,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+579,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+580,Return of the Jedi (1983),14-Mar-1997,http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)
+581,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+582,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+583,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+584,Return of the Jedi (1983),14-Mar-1997,http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)
+585,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+586,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+587,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+588,Ghost (1990),01-Jan-1990,http://us.imdb.com/M/title-exact?Ghost%20(1990)
+589,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+590,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+591,"Sting, The (1973)",01-Jan-1973,"http://us.imdb.com/M/title-exact?Sting,%20The%20(1973)"
+592,Bound (1996),04-Oct-1996,http://us.imdb.com/M/title-exact?Bound%20(1996)
+593,"Truth About Cats & Dogs, The (1996)",26-Apr-1996,"http://us.imdb.com/M/title-exact?Truth%20About%20Cats%20&%20Dogs,%20The%20(1996)"
+594,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+595,Trainspotting (1996),19-Jul-1996,http://us.imdb.com/Title?Trainspotting+(1996)
+596,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+597,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+598,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+599,"Truth About Cats & Dogs, The (1996)",26-Apr-1996,"http://us.imdb.com/M/title-exact?Truth%20About%20Cats%20&%20Dogs,%20The%20(1996)"
+600,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+601,"Wizard of Oz, The (1939)",01-Jan-1939,"http://us.imdb.com/M/title-exact?Wizard%20of%20Oz,%20The%20(1939)"
+602,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+603,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+604,"Silence of the Lambs, The (1991)",01-Jan-1991,"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"
+605,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+606,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+607,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+608,Psycho (1960),01-Jan-1960,http://us.imdb.com/M/title-exact?Psycho%20(1960)
+609,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+610,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+611,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+612,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+613,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+614,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+615,"Graduate, The (1967)",01-Jan-1967,"http://us.imdb.com/M/title-exact?Graduate,%20The%20(1967)"
+616,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+617,Psycho (1960),01-Jan-1960,http://us.imdb.com/M/title-exact?Psycho%20(1960)
+618,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+619,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+620,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+621,"Rock, The (1996)",07-Jun-1996,"http://us.imdb.com/M/title-exact?Rock,%20The%20(1996)"
+622,"Terminator, The (1984)",01-Jan-1984,"http://us.imdb.com/M/title-exact?Terminator,%20The%20(1984)"
+623,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+624,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+625,Raiders of the Lost Ark (1981),01-Jan-1981,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)
+626,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+627,Full Metal Jacket (1987),01-Jan-1987,http://us.imdb.com/M/title-exact?Full%20Metal%20Jacket%20(1987)
+628,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+629,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+630,Jerry Maguire (1996),13-Dec-1996,http://us.imdb.com/M/title-exact?Jerry%20Maguire%20(1996)
+631,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+632,"Empire Strikes Back, The (1980)",01-Jan-1980,"http://us.imdb.com/M/title-exact?Empire%20Strikes%20Back,%20The%20(1980)"
+633,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+634,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+635,Chasing Amy (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
+636,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+637,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+638,Raiders of the Lost Ark (1981),01-Jan-1981,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)
+639,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+640,Apt Pupil (1998),23-Oct-1998,http://us.imdb.com/Title?Apt+Pupil+(1998)
+641,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+642,Liar Liar (1997),21-Mar-1997,http://us.imdb.com/Title?Liar+Liar+(1997)
+643,Alien (1979),01-Jan-1979,http://us.imdb.com/M/title-exact?Alien%20(1979)
+644,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+645,"Clockwork Orange, A (1971)",01-Jan-1971,"http://us.imdb.com/M/title-exact?Clockwork%20Orange,%20A%20(1971)"
+646,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+647,Ransom (1996),08-Nov-1996,http://us.imdb.com/M/title-exact?Ransom%20(1996)
+648,Young Frankenstein (1974),01-Jan-1974,http://us.imdb.com/M/title-exact?Young%20Frankenstein%20(1974)
+649,Men in Black (1997),04-Jul-1997,http://us.imdb.com/M/title-exact?Men+in+Black+(1997)
+650,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+651,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+652,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+653,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+654,"Wrong Trousers, The (1993)",01-Jan-1993,"http://us.imdb.com/M/title-exact?Wrong%20Trousers,%20The%20(1993)"
+655,Boogie Nights (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Boogie+Nights+(1997)
+656,"Devil's Own, The (1997)",26-Mar-1997,http://us.imdb.com/M/title-exact?Devil%27s%20Own%2C%20The%20(1997)
+657,Trainspotting (1996),19-Jul-1996,http://us.imdb.com/Title?Trainspotting+(1996)
+658,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+659,Alien (1979),01-Jan-1979,http://us.imdb.com/M/title-exact?Alien%20(1979)
+660,Monty Python and the Holy Grail (1974),01-Jan-1974,http://us.imdb.com/M/title-exact?Monty%20Python%20and%20the%20Holy%20Grail%20(1974)
+661,To Kill a Mockingbird (1962),01-Jan-1962,http://us.imdb.com/M/title-exact?To%20Kill%20a%20Mockingbird%20(1962)
+662,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+663,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+664,Chinatown (1974),01-Jan-1974,http://us.imdb.com/M/title-exact?Chinatown%20(1974)
+665,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+666,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+667,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+668,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+669,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+670,Singin' in the Rain (1952),01-Jan-1952,http://us.imdb.com/M/title-exact?Singin'%20in%20the%20Rain%20(1952)
+671,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+672,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+673,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+674,Return of the Jedi (1983),14-Mar-1997,http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)
+675,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+676,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+677,Willy Wonka and the Chocolate Factory (1971),01-Jan-1971,http://us.imdb.com/M/title-exact?Willy%20Wonka%20and%20the%20Chocolate%20Factory%20(1971)
+678,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+679,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+680,Leaving Las Vegas (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Leaving%20Las%20Vegas%20(1995)
+681,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+682,Chasing Amy (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
+683,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+684,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+685,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+686,Taxi Driver (1976),16-Feb-1996,http://us.imdb.com/M/title-exact?Taxi%20Driver%20(1976)
+687,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+688,Fly Away Home (1996),13-Sep-1996,http://us.imdb.com/M/title-exact?Fly%20Away%20Home%20(1996)
+689,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+690,"Fish Called Wanda, A (1988)",01-Jan-1988,"http://us.imdb.com/M/title-exact?Fish%20Called%20Wanda,%20A%20(1988)"
+691,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+692,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+693,One Flew Over the Cuckoo's Nest (1975),01-Jan-1975,http://us.imdb.com/M/title-exact?One%20Flew%20Over%20the%20Cuckoo's%20Nest%20(1975)
+694,Patton (1970),01-Jan-1970,http://us.imdb.com/M/title-exact?Patton%20(1970)
+695,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+696,Good Will Hunting (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-119217
+697,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+698,"Terminator, The (1984)",01-Jan-1984,"http://us.imdb.com/M/title-exact?Terminator,%20The%20(1984)"
+699,Trainspotting (1996),19-Jul-1996,http://us.imdb.com/Title?Trainspotting+(1996)
+700,Raiders of the Lost Ark (1981),01-Jan-1981,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)
+701,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+702,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+703,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+704,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+705,Independence Day (ID4) (1996),03-Jul-1996,http://us.imdb.com/M/title-exact?Independence%20Day%20(1996)
+706,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+707,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+708,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+709,Raiders of the Lost Ark (1981),01-Jan-1981,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)
+710,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+711,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+712,Indiana Jones and the Last Crusade (1989),01-Jan-1989,http://us.imdb.com/M/title-exact?Indiana%20Jones%20and%20the%20Last%20Crusade%20(1989)
+713,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+714,Return of the Jedi (1983),14-Mar-1997,http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)
+715,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+716,"Graduate, The (1967)",01-Jan-1967,"http://us.imdb.com/M/title-exact?Graduate,%20The%20(1967)"
+717,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+718,Twister (1996),10-May-1996,http://us.imdb.com/M/title-exact?Twister%20(1996)
+719,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+720,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+721,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+722,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+723,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+724,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+725,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+726,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+727,Aliens (1986),01-Jan-1986,http://us.imdb.com/M/title-exact?Aliens%20(1986)
+728,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+729,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+730,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+731,To Kill a Mockingbird (1962),01-Jan-1962,http://us.imdb.com/M/title-exact?To%20Kill%20a%20Mockingbird%20(1962)
+732,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+733,Lone Star (1996),21-Jun-1996,http://us.imdb.com/M/title-exact?Lone%20Star%20(1996)
+734,It's a Wonderful Life (1946),01-Jan-1946,http://us.imdb.com/M/title-exact?It's%20a%20Wonderful%20Life%20(1946)
+735,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+736,Men in Black (1997),04-Jul-1997,http://us.imdb.com/M/title-exact?Men+in+Black+(1997)
+737,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+738,Star Trek: The Wrath of Khan (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Wrath%20of%20Khan%20(1982)
+739,"Godfather: Part II, The (1974)",01-Jan-1974,"http://us.imdb.com/M/title-exact?Godfather:%20Part%20II,%20The%20(1974)"
+740,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+741,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+742,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+743,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+744,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+745,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+746,"Empire Strikes Back, The (1980)",01-Jan-1980,"http://us.imdb.com/M/title-exact?Empire%20Strikes%20Back,%20The%20(1980)"
+747,"Wrong Trousers, The (1993)",01-Jan-1993,"http://us.imdb.com/M/title-exact?Wrong%20Trousers,%20The%20(1993)"
+748,Blade Runner (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Blade%20Runner%20(1982)
+749,E.T. the Extra-Terrestrial (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?E%2ET%2E%20the%20Extra-Terrestrial%20%281982%29
+750,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+751,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+752,Boogie Nights (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Boogie+Nights+(1997)
+753,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+754,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+755,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+756,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+757,Raiders of the Lost Ark (1981),01-Jan-1981,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)
+758,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+759,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+760,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+761,Mr. Holland's Opus (1995),29-Jan-1996,http://us.imdb.com/M/title-exact?Mr.%20Holland's%20Opus%20(1995)
+762,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+763,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+764,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+765,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+766,Young Frankenstein (1974),01-Jan-1974,http://us.imdb.com/M/title-exact?Young%20Frankenstein%20(1974)
+767,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+768,Jerry Maguire (1996),13-Dec-1996,http://us.imdb.com/M/title-exact?Jerry%20Maguire%20(1996)
+769,Twister (1996),10-May-1996,http://us.imdb.com/M/title-exact?Twister%20(1996)
+770,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+771,"Close Shave, A (1995)",28-Apr-1996,"http://us.imdb.com/M/title-exact?Close%20Shave,%20A%20(1995)"
+772,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+773,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+774,"Good, The Bad and The Ugly, The (1966)",01-Jan-1966,"http://us.imdb.com/M/title-exact?Buono,%20il%20brutto,%20il%20cattivo,%20Il%20(1966)"
+775,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+776,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+777,One Flew Over the Cuckoo's Nest (1975),01-Jan-1975,http://us.imdb.com/M/title-exact?One%20Flew%20Over%20the%20Cuckoo's%20Nest%20(1975)
+778,Die Hard (1988),01-Jan-1988,http://us.imdb.com/M/title-exact?Die%20Hard%20(1988)
+779,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+780,Indiana Jones and the Last Crusade (1989),01-Jan-1989,http://us.imdb.com/M/title-exact?Indiana%20Jones%20and%20the%20Last%20Crusade%20(1989)
+781,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+782,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+783,Cop Land (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Cop+Land+(1997)
+784,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+785,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+786,"Lion King, The (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Lion%20King,%20The%20(1994)"
+787,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+788,Braveheart (1995),16-Feb-1996,http://us.imdb.com/M/title-exact?Braveheart%20(1995)
+789,Leaving Las Vegas (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Leaving%20Las%20Vegas%20(1995)
+790,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+791,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+792,Jerry Maguire (1996),13-Dec-1996,http://us.imdb.com/M/title-exact?Jerry%20Maguire%20(1996)
+793,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+794,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+795,Monty Python and the Holy Grail (1974),01-Jan-1974,http://us.imdb.com/M/title-exact?Monty%20Python%20and%20the%20Holy%20Grail%20(1974)
+796,"Silence of the Lambs, The (1991)",01-Jan-1991,"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"
+797,Evita (1996),25-Dec-1996,http://us.imdb.com/M/title-exact?Evita%20(1996)
+798,Mary Poppins (1964),01-Jan-1964,http://us.imdb.com/M/title-exact?Mary%20Poppins%20(1964)
+799,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+800,Return of the Jedi (1983),14-Mar-1997,http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)
+801,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+802,Jaws (1975),01-Jan-1975,http://us.imdb.com/M/title-exact?Jaws%20(1975)
+803,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+804,Braveheart (1995),16-Feb-1996,http://us.imdb.com/M/title-exact?Braveheart%20(1995)
+805,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+806,GoodFellas (1990),01-Jan-1990,http://us.imdb.com/M/title-exact?GoodFellas%20(1990)
+807,Snow White and the Seven Dwarfs (1937),01-Jan-1937,http://us.imdb.com/M/title-exact?Snow%20White%20and%20the%20Seven%20Dwarfs%20(1937)
+808,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+809,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+810,Liar Liar (1997),21-Mar-1997,http://us.imdb.com/Title?Liar+Liar+(1997)
+811,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+812,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+813,"Devil's Advocate, The (1997)",01-Jan-1997,"http://us.imdb.com/M/title-exact?Devil's+Advocate,+The+(1997)"
+814,"Silence of the Lambs, The (1991)",01-Jan-1991,"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"
+815,E.T. the Extra-Terrestrial (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?E%2ET%2E%20the%20Extra-Terrestrial%20%281982%29
+816,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+817,"Rock, The (1996)",07-Jun-1996,"http://us.imdb.com/M/title-exact?Rock,%20The%20(1996)"
+818,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+819,Chasing Amy (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
+820,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+821,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+822,"Wrong Trousers, The (1993)",01-Jan-1993,"http://us.imdb.com/M/title-exact?Wrong%20Trousers,%20The%20(1993)"
+823,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+824,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+825,Mission: Impossible (1996),22-May-1996,http://us.imdb.com/M/title-exact?Mission:%20Impossible%20(1996)
+826,Braveheart (1995),16-Feb-1996,http://us.imdb.com/M/title-exact?Braveheart%20(1995)
+827,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+828,Three Colors: Red (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Trzy%20kolory:%20Czerwony%20(1994)
+829,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+830,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+831,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+832,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+833,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+834,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+835,Forrest Gump (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Forrest%20Gump%20(1994)
+836,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+837,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+838,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+839,Trainspotting (1996),19-Jul-1996,http://us.imdb.com/Title?Trainspotting+(1996)
+840,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+841,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+842,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+843,Alien (1979),01-Jan-1979,http://us.imdb.com/M/title-exact?Alien%20(1979)
+844,Braveheart (1995),16-Feb-1996,http://us.imdb.com/M/title-exact?Braveheart%20(1995)
+845,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+846,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+847,Star Trek: First Contact (1996),22-Nov-1996,http://us.imdb.com/M/title-exact?Star%20Trek:%20First%20Contact%20(1996)
+848,Casablanca (1942),01-Jan-1942,http://us.imdb.com/M/title-exact?Casablanca%20(1942)
+849,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+850,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+851,Heat (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Heat%20(1995)
+852,Return of the Jedi (1983),14-Mar-1997,http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)
+853,Air Force One (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Air+Force+One+(1997)
+854,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+855,Like Water For Chocolate (Como agua para chocolate) (1992),01-Jan-1992,http://us.imdb.com/M/title-exact?Como%20agua%20para%20chocolate%20(1992)
+856,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+857,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+858,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+859,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+860,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+861,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+862,"Silence of the Lambs, The (1991)",01-Jan-1991,"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"
+863,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+864,"Shawshank Redemption, The (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Shawshank%20Redemption,%20The%20(1994)"
+865,Trainspotting (1996),19-Jul-1996,http://us.imdb.com/Title?Trainspotting+(1996)
+866,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+867,Raiders of the Lost Ark (1981),01-Jan-1981,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)
+868,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+869,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+870,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+871,"Godfather: Part II, The (1974)",01-Jan-1974,"http://us.imdb.com/M/title-exact?Godfather:%20Part%20II,%20The%20(1974)"
+872,Scream (1996),20-Dec-1996,http://us.imdb.com/M/title-exact?Scream%20(1996)
+873,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+874,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+875,Raiders of the Lost Ark (1981),01-Jan-1981,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981)
+876,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+877,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+878,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+879,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+880,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+881,2001: A Space Odyssey (1968),01-Jan-1968,http://us.imdb.com/M/title-exact?2001:%20A%20Space%20Odyssey%20(1968)
+882,It's a Wonderful Life (1946),01-Jan-1946,http://us.imdb.com/M/title-exact?It's%20a%20Wonderful%20Life%20(1946)
+883,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+884,Trainspotting (1996),19-Jul-1996,http://us.imdb.com/Title?Trainspotting+(1996)
+885,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+886,"Shawshank Redemption, The (1994)",01-Jan-1994,"http://us.imdb.com/M/title-exact?Shawshank%20Redemption,%20The%20(1994)"
+887,Beauty and the Beast (1991),01-Jan-1991,http://us.imdb.com/M/title-exact?Beauty%20and%20the%20Beast%20(1991)
+888,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+889,Chasing Amy (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?Chasing+Amy+(1997)
+890,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+891,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+892,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+893,Liar Liar (1997),21-Mar-1997,http://us.imdb.com/Title?Liar+Liar+(1997)
+894,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+895,Return of the Jedi (1983),14-Mar-1997,http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983)
+896,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+897,Psycho (1960),01-Jan-1960,http://us.imdb.com/M/title-exact?Psycho%20(1960)
+898,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+899,Monty Python and the Holy Grail (1974),01-Jan-1974,http://us.imdb.com/M/title-exact?Monty%20Python%20and%20the%20Holy%20Grail%20(1974)
+900,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+901,Apollo 13 (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Apollo%2013%20(1995)
+902,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+903,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+904,Jerry Maguire (1996),13-Dec-1996,http://us.imdb.com/M/title-exact?Jerry%20Maguire%20(1996)
+905,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+906,"English Patient, The (1996)",15-Nov-1996,"http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)"
+907,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+908,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
+909,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+910,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+911,"Princess Bride, The (1987)",01-Jan-1987,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)"
+912,"Wizard of Oz, The (1939)",01-Jan-1939,"http://us.imdb.com/M/title-exact?Wizard%20of%20Oz,%20The%20(1939)"
+913,"Silence of the Lambs, The (1991)",01-Jan-1991,"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"
+914,Sleepless in Seattle (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Sleepless%20in%20Seattle%20(1993)
+915,L.A. Confidential (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997)
+916,Blade Runner (1982),01-Jan-1982,http://us.imdb.com/M/title-exact?Blade%20Runner%20(1982)
+917,"Time to Kill, A (1996)",13-Jul-1996,"http://us.imdb.com/M/title-exact?Time%20to%20Kill,%20A%20(1996)"
+918,"Room with a View, A (1986)",01-Jan-1986,"http://us.imdb.com/M/title-exact?Room%20with%20a%20View,%20A%20(1986)"
+919,Fargo (1996),14-Feb-1997,http://us.imdb.com/M/title-exact?Fargo%20(1996)
+920,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+921,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+922,Contact (1997),11-Jul-1997,http://us.imdb.com/Title?Contact+(1997/I)
+923,"Rock, The (1996)",07-Jun-1996,"http://us.imdb.com/M/title-exact?Rock,%20The%20(1996)"
+924,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+925,"Silence of the Lambs, The (1991)",01-Jan-1991,"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)"
+926,"Full Monty, The (1997)",01-Jan-1997,http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997)
+927,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+928,"Godfather, The (1972)",01-Jan-1972,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)"
+929,Star Wars (1977),01-Jan-1977,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)
+930,Sense and Sensibility (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995)
+931,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+932,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),01-Jan-1963,http://us.imdb.com/M/title-exact?Dr.%20Strangelove%20or:%20How%20I%20Learned%20to%20Stop%20Worrying%20and%20Love%20the%20Bomb%20(1963)
+933,Schindler's List (1993),01-Jan-1993,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993)
+934,"Graduate, The (1967)",01-Jan-1967,"http://us.imdb.com/M/title-exact?Graduate,%20The%20(1967)"
+935,"Time to Kill, A (1996)",13-Jul-1996,"http://us.imdb.com/M/title-exact?Time%20to%20Kill,%20A%20(1996)"
+936,Trainspotting (1996),19-Jul-1996,http://us.imdb.com/Title?Trainspotting+(1996)
+937,Emma (1996),02-Aug-1996,http://us.imdb.com/M/title-exact?Emma%20(1996)
+938,Independence Day (ID4) (1996),03-Jul-1996,http://us.imdb.com/M/title-exact?Independence%20Day%20(1996)
+939,Emma (1996),02-Aug-1996,http://us.imdb.com/M/title-exact?Emma%20(1996)
+940,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+941,Toy Story (1995),01-Jan-1995,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)
+942,Titanic (1997),01-Jan-1997,http://us.imdb.com/M/title-exact?imdb-title-120338
+943,Pulp Fiction (1994),01-Jan-1994,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)
