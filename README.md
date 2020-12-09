@@ -13,7 +13,7 @@ Next movie predictions based on the [Movielens dataset](https://grouplens.org/da
 
 ## About
 
-The task is to find patterns on what movies different types of users like. This can be achieved by examining the rankings each user has already made and try to predict how they will rank the rest of the movies. One method to predict these rankings is with SVD.
+The task is to find patterns on what movies different types of users like. This can be achieved by examining the rankings each user has already made and try to predict how they will rank the rest of the movies. One method to predict these rankings is with Singular Value Decomposition. Deep Learning can also be employed in this case using context-aware neural networks to take into account the timestamp of the ratings of the users.
 
 ## Installation
 
@@ -43,7 +43,7 @@ git clone https://github.com/Kostis-S-Z/moviestream_task.git
 **top_k.csv**: The output of the script in a CSV format containing the next top K movies a user will see. The csv is indexed by user ID.
 
 
-#### Run
+### Run
 
 To run the script and get the output recommendations, simply run:
 
@@ -52,7 +52,7 @@ To run the script and get the output recommendations, simply run:
 
 ## Approaches
 
-In this repo a popular and simple Matrix Factorication technique was used named Singular Value Decomposition (SVD). Other approaches to handle this problem are mentioned below.
+In this repo a popular and simple Matrix Factorisation technique was used named Singular Value Decomposition (SVD). Other approaches to handle this problem are mentioned below.
 
 #### Simple Matrix Factorization (ML, not DL)
 
@@ -74,7 +74,7 @@ adding more layers lets use search for more complex connections / patterns acros
 
 #### Performance > Accuracy
 
-Google published a new model for Large-Scale recommendationsuser_id with a focus in low computation cost in ICML 2020. [ScaNN blog](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html) + [ScaNN implementation](https://github.com/tensorflow/recommenders/blob/main/docs/examples/efficient_serving.ipynb)
+Google published a new model for Large-Scale recommendations user_id with a focus in low computation cost in ICML 2020. [ScaNN blog](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html) + [ScaNN implementation](https://github.com/tensorflow/recommenders/blob/main/docs/examples/efficient_serving.ipynb)
 
 #### Other 
 
