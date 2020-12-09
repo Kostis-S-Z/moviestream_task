@@ -18,7 +18,7 @@ def main():
     randomly_sample_result(np.random.choice(user_ids), all_user_predictions, movies, ratings)
 
 
-def make_predictions(ratings):
+def make_predictions(ratings, vectors=50):
     """
     Perform Singular Value Decomposition (SVD)
     """
@@ -29,7 +29,7 @@ def make_predictions(ratings):
     mean_user_rating = np.mean(r_matrix, axis=1).reshape(-1, 1)
     r_matrix_demean = r_matrix - mean_user_rating
 
-    u_mat, sigma, vt_mat = svds(r_matrix_demean, k=50)
+    u_mat, sigma, vt_mat = svds(r_matrix_demean, k=vectors)
     sigma = np.diag(sigma)
 
     predicted_ratings = np.dot(np.dot(u_mat, sigma), vt_mat) + mean_user_rating.reshape(-1, 1)
