@@ -15,7 +15,18 @@ def main():
     store_k_rec_per_user(user_ids, all_user_predictions, movies, ratings, 5)
     store_k_rec_per_user(user_ids, all_user_predictions, movies, ratings, 10)
 
-    randomly_sample_result(np.random.choice(user_ids), all_user_predictions, movies, ratings)
+    # Random sample
+    sample_user_result(np.random.choice(user_ids), all_user_predictions, movies, ratings)
+    # Sample by user input
+    while True:
+        user_id = int(input('Enter the ID of the user you want to suggest the next movie or 0 to exit:'))
+
+        if user_id in user_ids:
+            sample_user_result(user_id, all_user_predictions, movies, ratings)
+        elif user_id == 0:
+            break
+        else:
+            print('Sorry, user ID does not exist!')
 
 
 def make_predictions(ratings, vectors=50):
@@ -82,7 +93,7 @@ def store_k_rec_per_user(user_ids, all_user_predictions, movies, ratings, k):
     all_recommendations_per_user.to_csv(f'top_{k}.csv', index=False)
 
 
-def randomly_sample_result(user_id, all_user_predictions, movies, ratings):
+def sample_user_result(user_id, all_user_predictions, movies, ratings):
     """
     Print the next movie a user will want to see with a friendly message.
     """
