@@ -13,10 +13,11 @@ Next movie predictions based on the [Movielens dataset](https://grouplens.org/da
 
 ## About
 
-The task is to find patterns on what movies different types of users like. This can be achieved by examining the rankings each user has already made and try to predict how they will rank the rest of the movies. One method to predict these rankings is with Singular Value Decomposition. Deep Learning can also be employed in this case using context-aware neural networks to take into account the timestamp of the ratings of the users.
+The task is to find patterns on what movies different types of users like. This can be achieved by examining the rankings each user has already made and try to predict how they will rank the rest of the movies. One method to predict these rankings is with Singular Value Decomposition. Deep Learning can also be employed in this case using context-aware neural networks to take into account the timestamp of the ratings of the users (_not yet deployed_).
 
 ## Installation
 
+_Built with Python 3.7+_
 
 1. Clone the repo
 ```sh
@@ -25,7 +26,7 @@ git clone https://github.com/Kostis-S-Z/moviestream_task.git
 
 2. _(Optional, but highly recommended)_ Make a virtual environment
 
-```python3 -m venv meta_env``` or ``` virtualenv meta_env```
+```python3 -m venv venv``` or ``` virtualenv venv```
 
 
 3. Install core dependencies
@@ -52,7 +53,7 @@ _models.py_: Embedding models.
 
 To run the script and get the output recommendations, simply run:
 
-```python3 mf.py```
+```python mf.py```
 
 
 ## Approaches
