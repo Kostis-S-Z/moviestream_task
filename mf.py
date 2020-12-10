@@ -31,16 +31,23 @@ def main():
             print('Sorry, user ID does not exist!')
 
 
-def make_predictions(ratings, vectors=50):
+def preprocess_matrix(ratings):
     """
-    Perform Singular Value Decomposition (SVD)
+    Index ratings of movie_ids based on user_ids, fill missing values with 0 and demean matrix.
     """
-    # Index ratings of movie_ids based on user_ids and fill missing values with 0
     ratings_mat = ratings.pivot(index='user_id', columns='movie_id', values='rating').fillna(0)
 
     r_matrix = ratings_mat.to_numpy()
     mean_user_rating = np.mean(r_matrix, axis=1).reshape(-1, 1)
     r_matrix_demean = r_matrix - mean_user_rating
+    return ratings_mat, r_matrix_demean, mean_user_rating
+
+
+def make_predictions(ratings, vectors=50):
+    """
+    Perform Singular Value Decomposition (SVD)
+    """
+    ratings_mat, r_matrix_demean, mean_user_rating = preprocess_matrix(ratings)
 
     u_mat, sigma, vt_mat = svds(r_matrix_demean, k=vectors)
     sigma = np.diag(sigma)
@@ -60,19 +67,19 @@ def recommend_movies(user_id, predicted_ratings, movies, ratings, n_movies=10):
     user_id = user_id - 1  # user IDs start from 1
     sorted_user_pred = predicted_ratings.iloc[user_id].sort_values(ascending=False)
 
-    user_watched = ratings[ratings.user_id == user_id]
-    # merge in one dataframe the movies they have watched with all the others
-    user_total = user_watched.merge(movies, how='left', left_on='movie_id', right_on='movie_id')
+    user_rated = ratings[ratings.user_id == user_id]
+    # merge in one dataframe the movies they have rated yet with all the others
+    user_total = user_rated.merge(movies, how='left', left_on='movie_id', right_on='movie_id')
     user_total = user_total.sort_values(['rating'], ascending=False)
 
-    watched = movies['movie_id'].isin(user_total['movie_id'])
-    not_watched = movies[~watched]
+    rated = movies['movie_id'].isin(user_total['movie_id'])
+    not_rated_yet = movies[~rated]
 
     # Recommend the highest predicted rating movies that the user hasn't seen yet.
-    recommendations = (not_watched.merge(pd.DataFrame(sorted_user_pred).reset_index(),
-                                         how='left',
-                                         left_on='movie_id',
-                                         right_on='movie_id').rename(columns={user_id: 'Predictions'}))
+    recommendations = (not_rated_yet.merge(pd.DataFrame(sorted_user_pred).reset_index(),
+                                           how='left',
+                                           left_on='movie_id',
+                                           right_on='movie_id').rename(columns={user_id: 'Predictions'}))
 
     recommendations = recommendations.sort_values('Predictions', ascending=False).iloc[:n_movies, :-1]
 
