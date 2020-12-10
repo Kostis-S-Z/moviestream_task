@@ -11,12 +11,13 @@ def main():
     movies, ratings = fetch_data_local()
     user_ids = np.unique(list(ratings['user_id']))
 
+    print('Analysing data...', end='')
     all_user_predictions = make_predictions(ratings, n_vectors)
-
+    print('Done!\nStoring top 1, top 5 and top 10 recommendations for each user in CSV...', end='')
     store_k_rec_per_user(user_ids, all_user_predictions, movies, ratings, 1)
     store_k_rec_per_user(user_ids, all_user_predictions, movies, ratings, 5)
     store_k_rec_per_user(user_ids, all_user_predictions, movies, ratings, 10)
-
+    print('Done!\n')
     # Random sample
     sample_user_result(np.random.choice(user_ids), all_user_predictions, movies, ratings)
     # Sample by user input
